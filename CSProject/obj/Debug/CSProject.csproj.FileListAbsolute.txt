@@ -1,0 +1,12 @@
+/Users/Baran/Desktop/C# Projects/CSProject/CSProject/obj/Debug/CSProject.csprojAssemblyReference.cache
+/Users/Baran/Desktop/C# Projects/CSProject/CSProject/obj/Debug/CSProject.csproj.CoreCompileInputs.cache
+/Users/Baran/Desktop/C# Projects/CSProject/CSProject/bin/Debug/CSProject.exe
+/Users/Baran/Desktop/C# Projects/CSProject/CSProject/bin/Debug/CSProject.pdb
+/Users/Baran/Desktop/C# Projects/CSProject/CSProject/obj/Debug/CSProject.exe
+/Users/Baran/Desktop/C# Projects/CSProject/CSProject/obj/Debug/CSProject.pdb
+/Users/Baran/Documents/Software Eng/C# Projects/CSProject/CSProject/bin/Debug/CSProject.exe
+/Users/Baran/Documents/Software Eng/C# Projects/CSProject/CSProject/bin/Debug/CSProject.pdb
+/Users/Baran/Documents/Software Eng/C# Projects/CSProject/CSProject/obj/Debug/CSProject.csprojAssemblyReference.cache
+/Users/Baran/Documents/Software Eng/C# Projects/CSProject/CSProject/obj/Debug/CSProject.csproj.CoreCompileInputs.cache
+/Users/Baran/Documents/Software Eng/C# Projects/CSProject/CSProject/obj/Debug/CSProject.exe
+/Users/Baran/Documents/Software Eng/C# Projects/CSProject/CSProject/obj/Debug/CSProject.pdb
